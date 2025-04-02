@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/kongfo100" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="kongfo100" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-ayman-hegazy/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/mohamed-ayman-hegazy/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-ayman-hegazy/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/mohamed-ayman-hegazy/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
